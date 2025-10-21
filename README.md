@@ -12,6 +12,7 @@
 - 🔭 Actualmente trabajando en: Online Retail Community App (reemplazar si corresponde)
 - 🌱 Aprendiendo: Flask, FastAPI
 - 💡 Interesado en: Blockchain, Data Science, Open Source
+- 🎓 Estudio: AIEP — INGENIERÍA DE EJECUCIÓN EN INFORMÁTICA, MENCIÓN DESARROLLO DE SISTEMAS
 - 📫 Contacto: gkaustav57@gmail.com
 
 ---
@@ -20,12 +21,14 @@
 - [leven-ia](https://github.com/itzbenja/leven-ia) — Biblioteca ligera para coincidencia de cadenas y similitud (fuzzy matching) con ejemplos de uso en Python; útil para limpieza de datos y búsqueda tolerante a errores.
 - [tienda-de-rpa](https://github.com/itzbenja/tienda-de-rpa) — Conjunto de scripts y flujos RPA para automatizar tareas repetitivas en entornos de comercio electrónico (integración con formularios, generación de reportes y procesos de inventario).
 - [hospital](https://github.com/itzbenja/hospital) — Aplicación demo de gestión hospitalaria con módulos para pacientes, citas y registros médicos; pensada como proyecto educativo para practicar backend y CRUD.
+- [MivokProyecto](https://github.com/ElZoro1/MivokProyecto) — Colaboración/ejemplo de proyecto con componentes front/backend y utilidades; útil como referencia de integración y despliegue.
+- [Tienda Katan](https://github.com/ElZoro1/TiendaKatan) — Proyecto de tienda (frontend/backend) desarrollado en JavaScript; demo educativa con ejemplos de integración.
 - [itzbenja](https://github.com/itzbenja/itzbenja) — Repositorio del perfil que contiene este README y recursos relacionados con mi presencia en GitHub.
 
 ---
 
 ## 🛠️ Tecnologías
-Python • Flask • Django • React • PostgreSQL • Docker • Git • AWS
+Python • Flask • Django • React • JavaScript • PostgreSQL • Docker • Git • AWS
 
 ---
 
