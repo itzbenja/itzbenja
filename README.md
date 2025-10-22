@@ -8,9 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="45%" align="right" />
 
-## ⚡ About Me
-- 🔭 Actualmente trabajando en: Online Retail Community App (reemplazar si corresponde)
-- 🌱 Aprendiendo: Flask, FastAPI
+## ⚡sobre mi 
 - 💡 Interesado en: Blockchain, Data Science, Open Source
 - 🎓 Estudio: AIEP — INGENIERÍA DE EJECUCIÓN EN INFORMÁTICA, MENCIÓN DESARROLLO DE SISTEMAS
 - 📫 Contacto: benjariveras2015@gmail.com
