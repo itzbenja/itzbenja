@@ -1,4 +1,4 @@
-# Hey there 👋 — Welcome to my GitHub!
+# Hey there 👋 — bienvenido a mi github!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I'm+itzbenja;Full-stack+web+developer;Data+science+enthusiast;Open+source+contributor" />
 
@@ -8,10 +8,12 @@
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="45%" align="right" />
 
-## ⚡sobre mi 
+## ⚡ About Me
+- 🔭 Actualmente trabajando en: Online Retail Community App (reemplazar si corresponde)
+- 🌱 Aprendiendo: Flask, FastAPI
 - 💡 Interesado en: Blockchain, Data Science, Open Source
 - 🎓 Estudio: AIEP — INGENIERÍA DE EJECUCIÓN EN INFORMÁTICA, MENCIÓN DESARROLLO DE SISTEMAS
-- 📫 Contacto: benjariveras2015@gmail.com
+- 📫 Contacto: gkaustav57@gmail.com
 
 ---
 
@@ -21,12 +23,13 @@
 - [hospital](https://github.com/itzbenja/hospital) — Aplicación demo de gestión hospitalaria con módulos para pacientes, citas y registros médicos; pensada como proyecto educativo para practicar backend y CRUD.
 - [MivokProyecto](https://github.com/ElZoro1/MivokProyecto) — Colaboración/ejemplo de proyecto con componentes front/backend y utilidades; útil como referencia de integración y despliegue.
 - [Tienda Katan](https://github.com/ElZoro1/TiendaKatan) — Proyecto de tienda (frontend/backend) desarrollado en JavaScript; demo educativa con ejemplos de integración.
+- [BIKE ORANGE](https://github.com/itzbenja/BIKE-ORANGE) — Proyecto de bicicleta/tienda (añade aquí una breve descripción: tech, objetivo, demo o cómo probarlo).
 - [itzbenja](https://github.com/itzbenja/itzbenja) — Repositorio del perfil que contiene este README y recursos relacionados con mi presencia en GitHub.
 
 ---
 
 ## 🛠️ Tecnologías
-Python • Flask • Django • React • JavaScript • PostgreSQL • Docker • Git • AWS
+• React • JavaScript • PostgreSQL • Docker • Git • AWS • html • css • sql server • node •
 
 ---
 
