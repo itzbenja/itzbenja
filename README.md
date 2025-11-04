@@ -13,7 +13,7 @@
 - 🌱 Aprendiendo: Flask, FastAPI
 - 💡 Interesado en: Blockchain, Data Science, Open Source
 - 🎓 Estudio: AIEP — INGENIERÍA DE EJECUCIÓN EN INFORMÁTICA, MENCIÓN DESARROLLO DE SISTEMAS
-- 📫 Contacto: gkaustav57@gmail.com
+- 📫 Contacto: benjariveras2015@gmail.com
 
 ---
 
